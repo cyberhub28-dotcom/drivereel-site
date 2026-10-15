@@ -21,7 +21,7 @@ DriveReel turns a drive you already own into a TV-style library on your iPhone. 
 - **Photos:** JPG, HEIC and PNG. Camera RAW files (DNG, CR2, CR3, NEF, ARW, RAF, ORF, RW2) are listed too, and display if iPhone supports that camera's RAW format.
 - **Music:** MP3, M4A, AAC, WAV, FLAC and AIFF, with Lock Screen controls.
 - **Documents:** PDF, Word, Pages, text, RTF, Markdown, Excel, Numbers, CSV, PowerPoint and Keynote open in a read-only preview.
-- **Posters and details:** DriveReel uses poster, folder and cover images on your drive, and .nfo metadata files (the format used by Kodi). It creates a poster when there isn't one.
+- **Posters and details:** DriveReel uses poster, folder and cover images on your drive, and .nfo metadata files. It creates a poster when there isn't one.
 
 ## Free and DriveReel Plus
 - **Free:** one drive at a time, plus the built-in Sample Library, with your full library, playback, photos, music and search. Switching to a different drive removes the old drive's library from your iPhone. Nothing on either drive changes.
@@ -42,7 +42,7 @@ Purchases are handled by Apple, so we can't issue refunds ourselves. Request one
 - **Put Back:** Settings → the drive → DriveReel Trash → Put Back returns items to where they were. If something with the same name is already there, DriveReel stops and tells you instead of overwriting it. Put Back never deletes anything.
 - **Empty** permanently deletes everything in DriveReel Trash, after a second confirmation that lists the files and the space they use. It can't be undone.
 - Put Back and Empty are always free.
-- DriveReel Trash lives on the drive, so it still uses space there until you empty it. If you used an early test version, you may also see an older "Marquee Trash" folder. DriveReel lists it with the rest, and Put Back and Empty work on it the same way.
+- DriveReel Trash lives on the drive, so it still uses space there until you empty it.
 
 ## Forget a drive
 Settings → the drive → **Forget This Drive** removes that drive's library, its posters (including ones you chose), resume points and watch history from your iPhone, and clears your recent searches. Nothing on the drive is deleted, and DriveReel Trash stays on the drive. Connect the drive again any time to rebuild its library.
@@ -66,5 +66,3 @@ Settings → the drive → **Forget This Drive** removes that drive's library, i
 DriveReel collects no data. Everything stays on your iPhone. Read the privacy policy: https://cyberhub28-dotcom.github.io/drivereel-site/privacy
 
 © 2026 Zack Gabbard
-
-
