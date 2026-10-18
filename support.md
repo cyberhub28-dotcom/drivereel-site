@@ -1,6 +1,6 @@
 # DriveReel Support
 
-Questions or problems? Email **dinneragent28@gmail.com**. Please include your iPhone model, your iOS version, the kind of drive and its format, and your DriveReel version (shown at the bottom of Settings).
+Questions or problems? Email **support@cyberhubsoftware.com**. Please include your iPhone model, your iOS version, the kind of drive and its format, and your DriveReel version (shown at the bottom of Settings).
 
 ## What DriveReel does
 DriveReel turns a drive you already own into a TV-style library on your iPhone. It sorts the files into Movies, TV Shows, Home Videos, Photos, Music and Files. It reads everything on your iPhone, works offline, and needs no account.

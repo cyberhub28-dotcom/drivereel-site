@@ -47,6 +47,6 @@ None of this is sent to us or anyone else.
 
 **Changes to this policy.** If DriveReel ever starts handling information differently, we'll update this page and the date at the top before the change reaches the app.
 
-**Contact.** Zack Gabbard, dinneragent28@gmail.com
+**Contact.** Zack Gabbard, support@cyberhubsoftware.com
 
 
